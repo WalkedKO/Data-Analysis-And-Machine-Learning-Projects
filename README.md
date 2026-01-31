@@ -1,2 +1,7 @@
-# InsurancePolynomialRegression
-This is my first bigger polynomial regression code. It creates a model for Insurance Charges database
+Those are my first data analysis notebooks in google colab, there I use:
+- Pandas
+- Matplotlib
+- Scipy
+- Seaborn
+- Numpy
+And other
