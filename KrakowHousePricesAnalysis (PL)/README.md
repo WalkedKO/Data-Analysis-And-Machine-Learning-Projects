@@ -1,5 +1,6 @@
 # Krakow Apartment Offerts
 Kacper Osmola 2026
+
 It's a quick analysis of the Otomoto apartment offerts in Poland. I made this project to train my data visualization
 skills and check new kinds of graphs
 

@@ -1,5 +1,6 @@
 # Data Analysis and Machine Learning projects
 Kacper Osmola 2026
+
 Those are my first data analysis notebooks in google colab, there I use:
 - Pandas
 - Matplotlib

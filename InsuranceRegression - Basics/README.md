@@ -1,5 +1,6 @@
 # Insurance Regression
 Kacper Osmola 2025
+
 ## Warning: This was my first data analysis project so it may be very simple
 In this notebook, I  analyse and create a linear regression model for the "Insurance Charges Dataset", that will predict the persons insurance charges based on their personal data
 

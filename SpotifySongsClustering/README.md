@@ -1,5 +1,6 @@
 # Spotify Songs Clustering
 Kacper Osmola 2026
+
 We have a dataset of plenty of songs from Spotify. Can we build a system, which will cluster them into some playlists?
 The data set is from: https://www.kaggle.com/datasets/rishabhpancholi1302/spotify-most-popular-songs-dataset/code
 
